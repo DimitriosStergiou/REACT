@@ -36,3 +36,103 @@
     transform: rotate(360deg);
   }
 }
+
+/* Move these styles outside of the keyframes block */
+.book-container {
+  margin: 20px auto; /* Center the book horizontally */
+  border: 5px solid #8B4513; /* Dark brown border around the book */
+  padding: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Add a stronger shadow for depth */
+  width: fit-content;
+  background-color: #F5DEB3; /* Wheat color for the book's background */
+  background-image: url('https://www.transparenttextures.com/patterns/old-wall.png'); /* Optional texture */
+}
+
+
+
+.page {
+  background: #FAF3E0 url('https://www.transparenttextures.com/patterns/old-wall.png'); /* Add a paper texture */
+  border: 1px solid #D2B48C;
+  padding: 40px;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-family: 'Georgia', serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #4B3A2F;
+  align-items: center;
+}
+
+
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #8B4513; /* Dark brown color for headings */
+  text-shadow: 1px 1px 2px #8B4513; /* Slight shadow to give depth */
+}
+
+p {
+  text-align: center; /* Centers the text below the image */
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  color: #4B3A2F; /* Dark brown color */
+}
+
+.page a {
+  color: #8B4513;
+  text-decoration: none;
+}
+
+.page a:hover {
+  text-decoration: underline;
+  color: #A0522D; /* Slightly lighter brown on hover */
+}
+
+
+
+.education-item h3, .work-item h3, .skills-section h3 {
+  font-size: 24px; /* Larger font size for headings */
+  margin-bottom: 10px;
+}
+.cert-item {
+  margin-bottom: 20px;
+}
+
+.cert-item h3 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.cert-item p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.my-photo {
+  width: 150px; /* Adjust the size of the photo */
+  height: auto;
+  border-radius: 50%; /* Make it a circle if desired */
+  margin-bottom: 20px; /* Space below the photo */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+}
+
+.about-me-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content horizontally */
+}
+
+body {
+  background-color: #e0c9a6; /* Warm beige */
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif; /* Consistent font throughout */
+}
+
+
+
