@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/REACT/static/css/main.7c4b38f7.chunk.css",
+    "main.css": "/REACT/static/css/main.9e87928b.chunk.css",
     "main.js": "/REACT/static/js/main.db498f54.chunk.js",
     "main.js.map": "/REACT/static/js/main.db498f54.chunk.js.map",
     "runtime~main.js": "/REACT/static/js/runtime~main.c6b40c98.js",
@@ -10,9 +10,9 @@
     "static/js/3.68d536b4.chunk.js": "/REACT/static/js/3.68d536b4.chunk.js",
     "static/js/3.68d536b4.chunk.js.map": "/REACT/static/js/3.68d536b4.chunk.js.map",
     "index.html": "/REACT/index.html",
-    "precache-manifest.23b5bc7732254311535d6fcd65534e6f.js": "/REACT/precache-manifest.23b5bc7732254311535d6fcd65534e6f.js",
+    "precache-manifest.7e79f0ddee772b808ffa89a6d1895405.js": "/REACT/precache-manifest.7e79f0ddee772b808ffa89a6d1895405.js",
     "service-worker.js": "/REACT/service-worker.js",
-    "static/css/main.7c4b38f7.chunk.css.map": "/REACT/static/css/main.7c4b38f7.chunk.css.map",
+    "static/css/main.9e87928b.chunk.css.map": "/REACT/static/css/main.9e87928b.chunk.css.map",
     "static/media/my-photo.jpg": "/REACT/static/media/my-photo.8e1d1916.jpg"
   }
 }
